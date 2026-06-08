@@ -16,6 +16,7 @@
 ## 📂 Projects
 
 - Weather Station Web App (React, TypeScript, MariaDB)
+- File Organazier (React, TypeScript, Java & Electron)
 - JavaScript To-Do App
 - OOP Memory Game
 
